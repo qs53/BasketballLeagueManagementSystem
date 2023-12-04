@@ -1,16 +1,25 @@
 # Basketball League Management System
-Welcome to the basketball league management system. Please see below how to setup and 
-run the application. Future improvements to the application are mentioned at the end.
+Welcome to the basketball league management system. This application is developed using **Python 3.11.0**.
+
+Please see below how to setup and run the application. 
+Future improvements to the application are mentioned at the end.
 ## Setup
 Clone the code, cd inside the root of this project and run:  
+
 `python manage.py makemigrations`  
+
 `python manage.py makemigrations BasketballLeagueManagementSystem`  
+
 `python manage.py migrate`  
 
-Then run the management command to populate the database with seed data as below:  
+
+Then run the management command to populate the database with seed data as below:
+
 `python manage.py populate_db`
 ## Run Application
-To run the application, cd inside the root of this project and run:  
+First create a virtual environment and install all the dependency requirements from **requirements.txt** file.
+To run the application, cd inside the root of this project and run: 
+
 `python manage.py runserver`  
 
 The root URL of the application by default will be http://localhost:8000. 
@@ -18,7 +27,7 @@ To get a better idea of the data of users, players, coaches and games to test th
 check the JSON files and the **populate_db.py** file in the **management/commands** directory.
 ### Login
 **Method**: `POST`  
-**Endpoint**: `/login` 
+**Endpoint**: `/login`  
 **Payload**: `{
     "username": "kenzo.patterson",
     "password": "kenzo.patterson"
@@ -36,7 +45,7 @@ Above example is for league admin who has permissions to execute all endpoints.
 Accessible to all logged-in users.  
 
 **Method**: `POST`  
-**Endpoint**: `/logout`  
+**Endpoint**: `/logout`   
 **Sample Response**: `{
     "success": "Successfully logged out"
 }`  
@@ -44,7 +53,7 @@ Accessible to all logged-in users.
 Accessible to all logged-in users. 
 
 **Method**: `GET`  
-**Endpoint**: `/scoreboard`  
+**Endpoint**: `/scoreboard`   
 **Sample Response**: `[
     {
         "team1": "Thunder Hawks",
