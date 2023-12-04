@@ -1,0 +1,122 @@
+[
+  {
+    "team_1": "Thunder Hawks",
+    "team_1_score": "102",
+    "team_2": "Eclipse Titans",
+    "team_2_score": "78",
+    "winner": "Thunder Hawks",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Ironclad Cavaliers",
+    "team_1_score": "98",
+    "team_2": "Phoenix Fury",
+    "team_2_score": "112",
+    "winner": "Phoenix Fury",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Stealth Raptors",
+    "team_1_score": "89",
+    "team_2": "Cyclone Chargers",
+    "team_2_score": "91",
+    "winner": "Cyclone Chargers",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Avalanche Hawks",
+    "team_1_score": "95",
+    "team_2": "Blaze Dragons",
+    "team_2_score": "113",
+    "winner": "Blaze Dragons",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Vortex Vikings",
+    "team_1_score": "86",
+    "team_2": "Summit Stallions",
+    "team_2_score": "99",
+    "winner": "Summit Stallions",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Nebula Lions",
+    "team_1_score": "93",
+    "team_2": "Dynamo Panthers",
+    "team_2_score": "97",
+    "winner": "Dynamo Panthers",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Inferno Griffins",
+    "team_1_score": "107",
+    "team_2": "Horizon Hornets",
+    "team_2_score": "101",
+    "winner": "Inferno Griffins",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Pinnacle Bears",
+    "team_1_score": "96",
+    "team_2": "Galaxy Guardians",
+    "team_2_score": "115",
+    "winner": "Galaxy Guardians",
+    "type": "QUALIFIERS"
+  },
+  {
+    "team_1": "Thunder Hawks",
+    "team_1_score": "103",
+    "team_2": "Phoenix Fury",
+    "team_2_score": "93",
+    "winner": "Thunder Hawks",
+    "type": "QUARTERS"
+  },
+  {
+    "team_1": "Cyclone Chargers",
+    "team_1_score": "88",
+    "team_2": "Blaze Dragons",
+    "team_2_score": "94",
+    "winner": "Blaze Dragons",
+    "type": "QUARTERS"
+  },
+  {
+    "team_1": "Summit Stallions",
+    "team_1_score": "91",
+    "team_2": "Dynamo Panthers",
+    "team_2_score": "90",
+    "winner": "Summit Stallions",
+    "type": "QUARTERS"
+  },
+  {
+    "team_1": "Inferno Griffins",
+    "team_1_score": "79",
+    "team_2": "Galaxy Guardians",
+    "team_2_score": "91",
+    "winner": "Galaxy Guardians",
+    "type": "QUARTERS"
+  },
+  {
+    "team_1": "Thunder Hawks",
+    "team_1_score": "100",
+    "team_2": "Blaze Dragons",
+    "team_2_score": "107",
+    "winner": "Blaze Dragons",
+    "type": "SEMIS"
+  },
+  {
+    "team_1": "Summit Stallions",
+    "team_1_score": "102",
+    "team_2": "Galaxy Guardians",
+    "team_2_score": "114",
+    "winner": "Galaxy Guardians",
+    "type": "SEMIS"
+  },
+  {
+    "team_1": "Blaze Dragons",
+    "team_1_score": "104",
+    "team_2": "Galaxy Guardians",
+    "team_2_score": "92",
+    "winner": "Blaze Dragons",
+    "type": "FINALS"
+  }
+]

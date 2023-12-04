@@ -1,0 +1,107 @@
+[
+  {
+    "team_1": "Thunder Hawks",
+    "team_2": "Eclipse Titans",
+    "players": ["liam.thompson", "ethan.brooks", "benjamin.hayes", "oliver.richardson", "william.harrison",
+      "matthew.griffin", "samuel.bennett", "david.carter", "joseph.foster", "carter.ramirez"],
+    "player_scores": [17, 18, 20, 22, 25, 15, 20, 10, 8, 25]
+  },
+  {
+    "team_1": "Ironclad Cavaliers",
+    "team_2": "Phoenix Fury",
+    "players": ["joshua.baker", "isaac.perry", "dylan.powell", "luke.henderson", "nathan.torres",
+      "adam.perry", "sebastian.flores", "jayden.bell", "isaac.jenkins", "wyatt.cox"],
+    "player_scores": [20, 15, 25, 18, 20, 10, 20, 22, 25, 35]
+  },
+  {
+    "team_1": "Stealth Raptors",
+    "team_2": "Cyclone Chargers",
+    "players": ["zachary.hayes", "christian.patterson", "jonathan.hughes", "xavier.sanchez", "dominic.washington",
+      "lincoln.cox", "evan.morgan", "austin.hill", "gavin.sanders", "nicholas.gonzales"],
+    "player_scores": [10, 20, 15, 25, 19, 8, 8, 20, 25, 30]
+  },
+  {
+    "team_1": "Avalanche Hawks",
+    "team_2": "Blaze Dragons",
+    "players": ["cole.torres", "carson.parker", "miles.rivera", "vincent.bell", "blake.ramirez"
+    , "roman.russell", "edward.diaz", "patrick.cox", "kingston.reed", "hector.bennett"],
+    "player_scores": [12, 25, 18, 20, 20, 12, 15, 23, 28, 35]
+  },
+  {
+    "team_1": "Vortex Vikings",
+    "team_2": "Summit Stallions",
+    "players": ["walter.scott", "riley.jenkins", "jackson.griffin", "jaden.perry", "finn.hughes",
+    "lincoln.bennett", "zane.reed", "tristan.myers", "ryder.russell", "kieran.fisher"],
+    "player_scores": [15, 25, 18, 12, 16, 15, 18, 20, 21, 25]
+  },
+  {
+    "team_1": "Nebula Lions",
+    "team_2": "Dynamo Panthers",
+    "players": ["finnegan.adams", "arthur.sullivan", "asher.coleman", "roman.jenkins", "brooks.scott"
+    , "callum.cox", "jonah.rivera", "theodore.ward", "axel.hughes", "beckett.russell"],
+    "player_scores": [18, 25, 14, 20, 16, 17, 17, 18, 20, 25]
+  },
+  {
+    "team_1": "Inferno Griffins",
+    "team_2": "Horizon Hornets",
+    "players": ["river.powell", "reid.bennett", "august.ward", "atticus.cox", "malachi.ramirez",
+      "gabriel.fisher", "garrett.scott", "jayce.thompson", "julius.bell", "lennon.richardson"],
+    "player_scores": [14, 18, 20, 25, 30, 20, 25, 18, 22, 16]
+  },
+  {
+    "team_1": "Pinnacle Bears",
+    "team_2": "Galaxy Guardians",
+    "players": ["remy.bennett", "ronan.brooks", "solomon.hughes", "tanner.collins", "thaddeus.ward",
+      "bodhi.foster", "carson.hayes", "dawson.parker", "elisha.thompson", "flynn.bell"],
+    "player_scores": [18, 25, 14, 20, 19, 18, 20, 22, 25, 30]
+  },
+  {
+    "team_1": "Thunder Hawks",
+    "team_2": "Phoenix Fury",
+    "players": ["liam.thompson", "ethan.brooks", "benjamin.hayes", "oliver.richardson", "william.harrison",
+    "adam.perry", "sebastian.flores", "jayden.bell", "isaac.jenkins", "wyatt.cox"],
+    "player_scores": [10, 13, 20, 25, 35, 10, 13, 15, 25, 30]
+  },
+  {
+    "team_1": "Cyclone Chargers",
+    "team_2": "Blaze Dragons",
+    "players": ["lincoln.cox", "evan.morgan", "austin.hill", "gavin.sanders", "nicholas.gonzales",
+    "roman.russell", "edward.diaz", "patrick.cox", "kingston.reed", "hector.bennett"],
+    "player_scores": [8, 10, 15, 25, 30, 9, 10, 20, 25, 30]
+  },
+  {
+    "team_1": "Summit Stallions",
+    "team_2": "Dynamo Panthers",
+    "players": ["lincoln.bennett", "zane.reed", "tristan.myers", "ryder.russell", "kieran.fisher",
+    "callum.cox", "jonah.rivera", "theodore.ward", "axel.hughes", "beckett.russell"],
+    "player_scores": [13, 13, 18, 22, 25, 15, 15, 18, 20, 22]
+  },
+  {
+    "team_1": "Inferno Griffins",
+    "team_2": "Galaxy Guardians",
+    "players": ["river.powell", "reid.bennett", "august.ward", "atticus.cox", "malachi.ramirez",
+    "bodhi.foster", "carson.hayes", "dawson.parker", "elisha.thompson", "flynn.bell"],
+    "player_scores": [13, 13, 15, 18, 20, 15, 16, 18, 20, 22]
+  },
+  {
+    "team_1": "Thunder Hawks",
+    "team_2": "Blaze Dragons",
+    "players": ["liam.thompson", "ethan.brooks", "benjamin.hayes", "oliver.richardson", "william.harrison",
+    "roman.russell", "edward.diaz", "patrick.cox", "kingston.reed", "hector.bennett"],
+    "player_scores": [5, 10, 10, 35, 40, 17, 17, 18, 25, 30]
+  },
+  {
+    "team_1": "Summit Stallions",
+    "team_2": "Galaxy Guardians",
+    "players": ["lincoln.bennett", "zane.reed", "tristan.myers", "ryder.russell", "kieran.fisher",
+    "bodhi.foster", "carson.hayes", "dawson.parker", "elisha.thompson", "flynn.bell"],
+    "player_scores": [12, 15, 20, 25, 30, 18, 20, 21, 25, 30]
+  },
+  {
+    "team_1": "Blaze Dragons",
+    "team_2": "Galaxy Guardians",
+    "players": ["roman.russell", "edward.diaz", "patrick.cox", "kingston.reed", "hector.bennett",
+    "bodhi.foster", "carson.hayes", "dawson.parker", "elisha.thompson", "flynn.bell"],
+    "player_scores": [11, 15, 20, 28, 30, 14, 15, 18, 20, 25]
+  }
+]

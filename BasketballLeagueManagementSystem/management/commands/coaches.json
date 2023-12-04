@@ -1,0 +1,98 @@
+[
+  {
+    "first_name": "Noah",
+    "last_name": "Jacobs",
+    "username": "noah.jacobs",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Peterson",
+    "username": "daniel.peterson",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Christopher",
+    "last_name": "Reed",
+    "username": "christopher.reed",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Julian",
+    "last_name": " Evans",
+    "username": "julian.evans",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Eli",
+    "last_name": "Bryant",
+    "username": "eli.bryant",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Cameron",
+    "last_name": "Foster",
+    "username": "cameron.foster",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Chase",
+    "last_name": "Powell",
+    "username": "chase.powell",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Peter",
+    "last_name": "Henderson",
+    "username": "peter.henderson",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Trevor",
+    "last_name": "Coleman",
+    "username": "trevor.coleman",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Sawyer",
+    "last_name": "Ortiz",
+    "username": "sawyer.ortiz",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Elliott",
+    "last_name": "Torres",
+    "username": "elliott.torres",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Hayden",
+    "last_name": "Bell",
+    "username": "hayden.bell",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Travis",
+    "last_name": "Kelly",
+    "username": "travis.kelly",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Finley",
+    "last_name": "Hayes",
+    "username": "finley.hayes",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Quinton",
+    "last_name": "Ramirez",
+    "username": "quinton.ramirez",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Zander",
+    "last_name": "Scott",
+    "username": "zander.scott",
+    "team": "Galaxy Guardians"
+  }
+]

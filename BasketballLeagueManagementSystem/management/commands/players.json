@@ -1,0 +1,1122 @@
+[
+  {
+    "first_name": "Liam",
+    "last_name": "Thompson",
+    "username": "liam.thompson",
+    "height": "5'11\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Ethan",
+    "last_name": "Brooks",
+    "username": "ethan.brooks",
+    "height": "5'10\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Benjamin",
+    "last_name": "Hayes",
+    "username": "benjamin.hayes",
+    "height": "6'2\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Oliver",
+    "last_name": "Richardson",
+    "username": "oliver.richardson",
+    "height": "6'8\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "William",
+    "last_name": "Harrison",
+    "username": "william.harrison",
+    "height": "6'3\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "James",
+    "last_name": "Cooper",
+    "username": "james.cooper",
+    "height": "6'2\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Lucas",
+    "last_name": "Parker",
+    "username": "lucas.parker",
+    "height": "6'5\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Henry",
+    "last_name": "Sullivan",
+    "username": "henry.sullivan",
+    "height": "6'6\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Alexander",
+    "last_name": "Mitchell",
+    "username": "alexander.mitchell",
+    "height": "6'9\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Nelson",
+    "username": "michael.nelson",
+    "height": "6'3\"",
+    "team": "Thunder Hawks"
+  },
+  {
+    "first_name": "Matthew",
+    "last_name": "Griffin",
+    "username": "matthew.griffin",
+    "height": "6'11\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Samuel",
+    "last_name": "Bennett",
+    "username": "samuel.bennett",
+    "height": "6'4\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "David",
+    "last_name": "Carter",
+    "username": "david.carter",
+    "height": "6'4\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Joseph",
+    "last_name": "Foster",
+    "username": "joseph.foster",
+    "height": "6'7\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Carter",
+    "last_name": "Ramirez",
+    "username": "carter.ramirez",
+    "height": "6'5\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Gabriel",
+    "last_name": "Ward",
+    "username": "gabriel.ward",
+    "height": "5'11\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Jackson",
+    "last_name": "Morgan",
+    "username": "jackson.morgan",
+    "height": "6'6\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Andrew",
+    "last_name": "Ross",
+    "username": "andrew.ross",
+    "height": "6'1\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Anthony",
+    "last_name": "Russell",
+    "username": "anthony.russell",
+    "height": "6'2\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Elijah",
+    "last_name": "Coleman",
+    "username": "elijah.coleman",
+    "height": "6'5\"",
+    "team": "Eclipse Titans"
+  },
+  {
+    "first_name": "Joshua",
+    "last_name": "Baker",
+    "username": "joshua.baker",
+    "height": "6'5\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Isaac",
+    "last_name": "Perry",
+    "username": "isaac.perry",
+    "height": "6'4\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Dylan",
+    "last_name": "Powell",
+    "username": "dylan.powell",
+    "height": "6'2\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "Henderson",
+    "username": "luke.henderson",
+    "height": "6'1\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Nathan",
+    "last_name": "Torres",
+    "username": "nathan.torres",
+    "height": "6'1\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Connor",
+    "last_name": "Brooks",
+    "username": "connor.brooks",
+    "height": "6'11\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Jack",
+    "last_name": "Bailey",
+    "username": "jack.bailey",
+    "height": "6'9\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "Rivera",
+    "username": "ryan.rivera",
+    "height": "6'7\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Owen",
+    "last_name": "Diaz",
+    "username": "owen.diaz",
+    "height": "6'0\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Caleb",
+    "last_name": "Wood",
+    "username": "caleb.wood",
+    "height": "6'1\"",
+    "team": "Ironclad Cavaliers"
+  },
+  {
+    "first_name": "Adam",
+    "last_name": "Perry",
+    "username": "adam.perry",
+    "height": "6'4\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Sebastian",
+    "last_name": "Flores",
+    "username": "sebastian.flores",
+    "height": "6'8\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Jayden",
+    "last_name": "Bell",
+    "username": "jayden.bell",
+    "height": "6'3\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Isaac",
+    "last_name": "Jenkins",
+    "username": "isaac.jenkins",
+    "height": "6'3\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Wyatt",
+    "last_name": "Cox",
+    "username": "wyatt.cox",
+    "height": "6'5\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Levi",
+    "last_name": "Fisher",
+    "username": "levi.fisher",
+    "height": "6'5\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Hunter",
+    "last_name": "Long",
+    "username": "hunter.long",
+    "height": "6'6\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Aaron",
+    "last_name": "Reed",
+    "username": "aaron.reed",
+    "height": "6'10\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Thomas",
+    "last_name": "Price",
+    "username": "thomas.price",
+    "height": "6'0\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Charles",
+    "last_name": "Ward",
+    "username": "charles.ward",
+    "height": "5'11\"",
+    "team": "Phoenix Fury"
+  },
+  {
+    "first_name": "Zachary",
+    "last_name": "Hayes",
+    "username": "zachary.hayes",
+    "height": "6'4\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Christian",
+    "last_name": "Patterson",
+    "username": "christian.patterson",
+    "height": "6'5\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Jonathan",
+    "last_name": "Hughes",
+    "username": "jonathan.hughes",
+    "height": "6'6\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Xavier",
+    "last_name": "Sanchez",
+    "username": "xavier.sanchez",
+    "height": "6'1\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Dominic",
+    "last_name": "Washington",
+    "username": "dominic.washington",
+    "height": "6'3\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Jordan",
+    "last_name": "Kelly",
+    "username": "jordan.kelly",
+    "height": "6'6\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Cooper",
+    "last_name": "Murphy",
+    "username": "cooper.murphy",
+    "height": "6'7\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Landon",
+    "last_name": "Butler",
+    "username": "landon.butler",
+    "height": "5'10\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Adrian",
+    "last_name": "Simmons",
+    "username": "adrian.simmons",
+    "height": "6'4\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Robert",
+    "last_name": "Gray",
+    "username": "robert.gray",
+    "height": "6'8\"",
+    "team": "Stealth Raptors"
+  },
+  {
+    "first_name": "Lincoln",
+    "last_name": "Cox",
+    "username": "lincoln.cox",
+    "height": "6'0\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Evan",
+    "last_name": "Morgan",
+    "username": "evan.morgan",
+    "height": "6'4\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Austin",
+    "last_name": "Hill",
+    "username": "austin.hill",
+    "height": "6'5\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Gavin",
+    "last_name": "Sanders",
+    "username": "gavin.sanders",
+    "height": "6'6\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Nicholas",
+    "last_name": "Gonzales",
+    "username": "nicholas.gonzales",
+    "height": "6'2\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Isaiah",
+    "last_name": "Coleman",
+    "username": "isaiah.coleman",
+    "height": "6'2\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Tristan",
+    "last_name": "Ortiz",
+    "username": "tristan.ortiz",
+    "height": "6'6\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Jason",
+    "last_name": "Coleman",
+    "username": "jason.coleman",
+    "height": "6'6\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Collins",
+    "username": "alex.collins",
+    "height": "6'9\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Ian",
+    "last_name": "Richardson",
+    "username": "ian.richardson",
+    "height": "6'0\"",
+    "team": "Cyclone Chargers"
+  },
+  {
+    "first_name": "Cole",
+    "last_name": "Torres",
+    "username": "cole.torres",
+    "height": "6'1\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Carson",
+    "last_name": "Parker",
+    "username": "carson.parker",
+    "height": "6'1\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Miles",
+    "last_name": "Rivera",
+    "username": "miles.rivera",
+    "height": "6'9\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Vincent",
+    "last_name": "Bell",
+    "username": "vincent.bell",
+    "height": "6'8\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Blake",
+    "last_name": "Ramirez",
+    "username": "blake.ramirez",
+    "height": "6'8\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Maxwell",
+    "last_name": "Perry",
+    "username": "maxwell.perry",
+    "height": "6'2\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Diego",
+    "last_name": "Watson",
+    "username": "diego.watson",
+    "height": "6'4\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Carlos",
+    "last_name": "Flores",
+    "username": "carlos.flores",
+    "height": "6'5\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Brody",
+    "last_name": "Myers",
+    "username": "brody.myers",
+    "height": "6'7\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Seth",
+    "last_name": "Murray",
+    "username": "seth.murray",
+    "height": "6'1\"",
+    "team": "Avalanche Hawks"
+  },
+  {
+    "first_name": "Roman",
+    "last_name": "Russell",
+    "username": "roman.russell",
+    "height": "6'5\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Edward",
+    "last_name": "Diaz",
+    "username": "edward.diaz",
+    "height": "6'7\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Patrick",
+    "last_name": "Cox",
+    "username": "patrick.cox",
+    "height": "6'0\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Kingston",
+    "last_name": "Reed",
+    "username": "kingston.reed",
+    "height": "6'3\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Hector",
+    "last_name": "Bennett",
+    "username": "hector.bennett",
+    "height": "6'3\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Fernando",
+    "last_name": "Price",
+    "username": "fernando.price",
+    "height": "6'3\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Eric",
+    "last_name": "Gonzalez",
+    "username": "eric.gonzalez",
+    "height": "6'4\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Jesse",
+    "last_name": "Adams",
+    "username": "jesse.adams",
+    "height": "6'5\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Chance",
+    "last_name": "Foster",
+    "username": "chance.foster",
+    "height": "6'1\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Oscar",
+    "last_name": "Ward",
+    "username": "oscar.ward",
+    "height": "6'1\"",
+    "team": "Blaze Dragons"
+  },
+  {
+    "first_name": "Walter",
+    "last_name": "Scott",
+    "username": "walter.scott",
+    "height": "6'2\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Riley",
+    "last_name": "Jenkins",
+    "username": "riley.jenkins",
+    "height": "6'2\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Jackson",
+    "last_name": "Griffin",
+    "username": "jackson.griffin",
+    "height": "6'2\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Jaden",
+    "last_name": "Perry",
+    "username": "jaden.perry",
+    "height": "6'3\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Finn",
+    "last_name": "Hughes",
+    "username": "finn.hughes",
+    "height": "6'10\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Derek",
+    "last_name": "Washington",
+    "username": "derek.washington",
+    "height": "6'11\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Spencer",
+    "last_name": "Fisher",
+    "username": "spencer.fisher",
+    "height": "6'3\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Avery",
+    "last_name": "Sanders",
+    "username": "avery.sanders",
+    "height": "6'4\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Gideon",
+    "last_name": "Murray",
+    "username": "gideon.murray",
+    "height": "6'5\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Micah",
+    "last_name": "Kelly",
+    "username": "micah.kelly",
+    "height": "6'6\"",
+    "team": "Vortex Vikings"
+  },
+  {
+    "first_name": "Lincoln",
+    "last_name": "Bennett",
+    "username": "lincoln.bennett",
+    "height": "6'5\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Zane",
+    "last_name": "Reed",
+    "username": "zane.reed",
+    "height": "6'5\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Tristan",
+    "last_name": "Myers",
+    "username": "tristan.myers",
+    "height": "6'4\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Ryder",
+    "last_name": "Russell",
+    "username": "ryder.russell",
+    "height": "6'3\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Kieran",
+    "last_name": "Fisher",
+    "username": "kieran.fisher",
+    "height": "5'11\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Declan",
+    "last_name": "Bell",
+    "username": "declan.bell",
+    "height": "5'11\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Jude",
+    "last_name": "Ramirez",
+    "username": "jude.ramirez",
+    "height": "7'0\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Wesley",
+    "last_name": "Brooks",
+    "username": "wesley.brooks",
+    "height": "6'1\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Emmett",
+    "last_name": "Cooper",
+    "username": "emmett.cooper",
+    "height": "6'1\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Bennett",
+    "last_name": "Henderson",
+    "username": "bennett.henderson",
+    "height": "6'0\"",
+    "team": "Summit Stallions"
+  },
+  {
+    "first_name": "Finnegan",
+    "last_name": "Adams",
+    "username": "finnegan.adams",
+    "height": "6'2\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Arthur",
+    "last_name": "Sullivan",
+    "username": "arthur.sullivan",
+    "height": "6'1\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Asher",
+    "last_name": "Coleman",
+    "username": "asher.coleman",
+    "height": "6'3\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Roman",
+    "last_name": "Jenkins",
+    "username": "roman.jenkins",
+    "height": "6'5\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Brooks",
+    "last_name": "Scott",
+    "username": "brooks.scott",
+    "height": "6'5\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Jude",
+    "last_name": "Patterson",
+    "username": "jude.patterson",
+    "height": "6'6\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Silas",
+    "last_name": "Murphy",
+    "username": "silas.murphy",
+    "height": "6'11\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Grayson",
+    "last_name": "Watson",
+    "username": "grayson.watson",
+    "height": "6'7\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Damian",
+    "last_name": "Perry",
+    "username": "damian.perry",
+    "height": "6'0\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Kai",
+    "last_name": "Foster",
+    "username": "kai.foster",
+    "height": "6'0\"",
+    "team": "Nebula Lions"
+  },
+  {
+    "first_name": "Callum",
+    "last_name": "Cox",
+    "username": "callum.cox",
+    "height": "6'1\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Jonah",
+    "last_name": "Rivera",
+    "username": "jonah.rivera",
+    "height": "6'2\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Theodore",
+    "last_name": "Ward",
+    "username": "theodore.ward",
+    "height": "6'4\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Axel",
+    "last_name": "Hughes",
+    "username": "axel.hughes",
+    "height": "6'3\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Beckett",
+    "last_name": "Russell",
+    "username": "beckett.russell",
+    "height": "6'6\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Phoenix",
+    "last_name": "Henderson",
+    "username": "phoenix.henderson",
+    "height": "6'5\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Knox",
+    "last_name": "Bailey",
+    "username": "knox.bailey",
+    "height": "6'4\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Kaleb",
+    "last_name": "Collins",
+    "username": "kaleb.collins",
+    "height": "6'4\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Graham",
+    "last_name": "Myers",
+    "username": "graham.myers",
+    "height": "6'4\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "Sawyer",
+    "last_name": "Reed",
+    "username": "sawyer.reed",
+    "height": "6'2\"",
+    "team": "Dynamo Panthers"
+  },
+  {
+    "first_name": "River",
+    "last_name": "Powell",
+    "username": "river.powell",
+    "height": "6'3\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Reid",
+    "last_name": "Bennett",
+    "username": "reid.bennett",
+    "height": "6'2\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "August",
+    "last_name": "Ward",
+    "username": "august.ward",
+    "height": "6'0\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Atticus",
+    "last_name": "Cox",
+    "username": "atticus.cox",
+    "height": "6'1\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Malachi",
+    "last_name": "Ramirez",
+    "username": "malachi.ramirez",
+    "height": "6'1\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Dawson",
+    "last_name": "Gonzalez",
+    "username": "dawson.gonzalez",
+    "height": "6'7\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Bryce",
+    "last_name": "Foster",
+    "username": "bryce.foster",
+    "height": "6'1\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Colton",
+    "last_name": "Murray",
+    "username": "colton.murray",
+    "height": "6'2\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Clark",
+    "last_name": "Adams",
+    "username": "clark.adams",
+    "height": "6'4\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Donovan",
+    "last_name": "Jenkins",
+    "username": "donovan.jenkins",
+    "height": "6'6\"",
+    "team": "Inferno Griffins"
+  },
+  {
+    "first_name": "Gabriel",
+    "last_name": "Fisher",
+    "username": "gabriel.fisher",
+    "height": "6'10\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Garrett",
+    "last_name": "Scott",
+    "username": "garrett.scott",
+    "height": "6'9\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Jayce",
+    "last_name": "Thompson",
+    "username": "jayce.thompson",
+    "height": "6'0\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Julius",
+    "last_name": "Bell",
+    "username": "julius.bell",
+    "height": "6'1\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Lennon",
+    "last_name": "Richardson",
+    "username": "lennon.richardson",
+    "height": "6'2\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Leon",
+    "last_name": "Murphy",
+    "username": "leon.murphy",
+    "height": "6'2\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Maddox",
+    "last_name": "Russell",
+    "username": "maddox.russell",
+    "height": "6'6\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Maurice",
+    "last_name": "Patterson",
+    "username": "maurice.patterson",
+    "height": "6'5\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Nico",
+    "last_name": "Cox",
+    "username": "nico.cox",
+    "height": "6'5\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Orion",
+    "last_name": "Henderson",
+    "username": "orion.henderson",
+    "height": "6'0\"",
+    "team": "Horizon Hornets"
+  },
+  {
+    "first_name": "Remy",
+    "last_name": "Bennett",
+    "username": "remy.bennett",
+    "height": "5'10\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Ronan",
+    "last_name": "Brooks",
+    "username": "ronan.brooks",
+    "height": "5'11\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Solomon",
+    "last_name": "Hughes",
+    "username": "solomon.hughes",
+    "height": "5'11\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Tanner",
+    "last_name": "Collins",
+    "username": "tanner.collins",
+    "height": "6'4\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Thaddeus",
+    "last_name": "Ward",
+    "username": "thaddeus.ward",
+    "height": "6'7\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Uriah",
+    "last_name": "Myers",
+    "username": "uriah.myers",
+    "height": "6'5\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Victor",
+    "last_name": "Adams",
+    "username": "victor.adams",
+    "height": "6'6\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Westley",
+    "last_name": "Sullivan",
+    "username": "westley.sullivan",
+    "height": "6'1\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Xander",
+    "last_name": "Coleman",
+    "username": "xander.coleman",
+    "height": "6'0\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Blake",
+    "last_name": "Jenkins",
+    "username": "blake.jenkins",
+    "height": "6'1\"",
+    "team": "Pinnacle Bears"
+  },
+  {
+    "first_name": "Abel",
+    "last_name": "Cox",
+    "username": "abel.cox",
+    "height": "6'10\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Bodhi",
+    "last_name": "Foster",
+    "username": "bodhi.foster",
+    "height": "6'1\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Carson",
+    "last_name": "Hayes",
+    "username": "carson.hayes",
+    "height": "6'3\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Dawson",
+    "last_name": "Parker",
+    "username": "dawson.parker",
+    "height": "6'4\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Elisha",
+    "last_name": "Thompson",
+    "username": "elisha.thompson",
+    "height": "6'4\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Flynn",
+    "last_name": "Bell",
+    "username": "flynn.bell",
+    "height": "6'6\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Greyson",
+    "last_name": "Richardson",
+    "username": "greyson.richardson",
+    "height": "6'3\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Hugo",
+    "last_name": "Murphy",
+    "username": "hugo.murphy",
+    "height": "6'2\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Ira",
+    "last_name": "Russell",
+    "username": "ira.russell",
+    "height": "6'2\"",
+    "team": "Galaxy Guardians"
+  },
+  {
+    "first_name": "Jett",
+    "last_name": "Ramirez",
+    "username": "jett.ramirez",
+    "height": "6'0\"",
+    "team": "Galaxy Guardians"
+  }
+]
