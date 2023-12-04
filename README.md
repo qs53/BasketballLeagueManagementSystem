@@ -4,9 +4,7 @@ Welcome to the basketball league management system. This application is develope
 Please see below how to setup and run the application. 
 Future improvements to the application are mentioned at the end.
 ## Setup
-Clone the code, cd inside the root of this project and run:  
-
-`python manage.py makemigrations`  
+Clone the code, cd inside the root of this project and run:
 
 `python manage.py makemigrations BasketballLeagueManagementSystem`  
 
@@ -134,6 +132,7 @@ Accessible to all logged-in league admin only. `timeSpentOnline` is in seconds.
 * Application logging
 * Token expiry and refresh tokens to reduce login attempts
 * Handle user authorization in middleware
-
+* Appropriate response for non-existent teams and players
+* Integration tests (missing due to time constraints)
 
 
