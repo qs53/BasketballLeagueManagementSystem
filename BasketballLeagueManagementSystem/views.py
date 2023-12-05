@@ -73,7 +73,7 @@ def team_details(request, team_id):
     """
     Get details of team (and percentile if provided). Coach can only access his team's data.
     """
-    team = Team.objects.get(pk=team_id)
+    team = get_object_or_404(Team, pk=team_id)
     if not coach_authorized(request.user, team):
         return JsonResponse({"error": "Unauthorized access"}, status=status.HTTP_401_UNAUTHORIZED)
     percentile = request.GET.get("percentile")
@@ -92,7 +92,7 @@ def player_details(request, player_id):
     """
     Get details of player. Player can only access his data.
     """
-    player = Player.objects.get(pk=player_id)
+    player = get_object_or_404(Player, pk=player_id)
     if not player_authorized(request.user, player.team, player):
         return JsonResponse({"error": "Unauthorized access"}, status=status.HTTP_401_UNAUTHORIZED)
     number_of_games_played, avg_score = get_player_details(player)
