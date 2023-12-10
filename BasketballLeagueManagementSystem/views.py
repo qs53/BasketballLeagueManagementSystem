@@ -6,7 +6,7 @@ from django.db.models import Avg
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
 from rest_framework import status
-from rest_framework.authentication import SessionAuthentication, TokenAuthentication
+from rest_framework.authentication import TokenAuthentication
 from rest_framework.authtoken.models import Token
 from rest_framework.decorators import api_view, authentication_classes, permission_classes
 from rest_framework.permissions import IsAuthenticated
@@ -16,7 +16,7 @@ from .serializers import GameSerializer, SystemUserSerializer
 
 
 @api_view(['POST'])
-@authentication_classes([SessionAuthentication, TokenAuthentication])
+@authentication_classes([TokenAuthentication])
 def login_user(request):
     """
     Log in a user and return a JWT token.
@@ -25,18 +25,19 @@ def login_user(request):
     user = get_object_or_404(User, username=request.data['username'])
     if not user.check_password(request.data['password']):
         return JsonResponse({"error": "Invalid login credentials"}, status=status.HTTP_404_NOT_FOUND)
-    user.last_login = datetime.now(timezone.utc)
-    user.save()
-    system_user = SystemUser.objects.get(user=user)
-    system_user.is_logged_in = True
-    system_user.logged_in_count = system_user.logged_in_count + 1
-    system_user.save()
     token, created = Token.objects.get_or_create(user=user)
+    if created:
+        user.last_login = datetime.now(timezone.utc)
+        user.save()
+        system_user = SystemUser.objects.get(user=user)
+        system_user.is_logged_in = True
+        system_user.logged_in_count = system_user.logged_in_count + 1
+        system_user.save()
     return JsonResponse({"token": token.key}, status=status.HTTP_200_OK)
 
 
 @api_view(['POST'])
-@authentication_classes([SessionAuthentication, TokenAuthentication])
+@authentication_classes([TokenAuthentication])
 @permission_classes([IsAuthenticated])
 def logout_user(request):
     """
@@ -55,7 +56,7 @@ def logout_user(request):
 
 
 @api_view(['GET'])
-@authentication_classes([SessionAuthentication, TokenAuthentication])
+@authentication_classes([TokenAuthentication])
 @permission_classes([IsAuthenticated])
 def scoreboard(request):
     """
@@ -67,7 +68,7 @@ def scoreboard(request):
 
 
 @api_view(['GET'])
-@authentication_classes([SessionAuthentication, TokenAuthentication])
+@authentication_classes([TokenAuthentication])
 @permission_classes([IsAuthenticated])
 def team_details(request, team_id):
     """
@@ -86,7 +87,7 @@ def team_details(request, team_id):
 
 
 @api_view(['GET'])
-@authentication_classes([SessionAuthentication, TokenAuthentication])
+@authentication_classes([TokenAuthentication])
 @permission_classes([IsAuthenticated])
 def player_details(request, player_id):
     """
@@ -102,7 +103,7 @@ def player_details(request, player_id):
 
 
 @api_view(['GET'])
-@authentication_classes([SessionAuthentication, TokenAuthentication])
+@authentication_classes([TokenAuthentication])
 @permission_classes([IsAuthenticated])
 def stats(request):
     """

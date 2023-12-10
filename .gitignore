@@ -2,3 +2,4 @@
 venv
 db.sqlite3
 BasketballLeagueManagementSystem/migrations
+**/__pycache__

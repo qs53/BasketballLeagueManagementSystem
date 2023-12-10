@@ -15,11 +15,11 @@ class GameSerializer(serializers.ModelSerializer):
 
 
 class SystemUserSerializer(serializers.ModelSerializer):
-    username = serializers.StringRelatedField(source='user.username')
     name = serializers.SerializerMethodField()
-    isLoggedIn = serializers.CharField(source='is_logged_in')
-    loggedInCount = serializers.CharField(source='logged_in_count')
-    timeSpentOnline = serializers.CharField(source='time_spent_online')
+    username = serializers.StringRelatedField(source='user.username')
+    isLoggedIn = serializers.BooleanField(source='is_logged_in')
+    loggedInCount = serializers.IntegerField(source='logged_in_count')
+    timeSpentOnline = serializers.IntegerField(source='time_spent_online')
 
     class Meta:
         model = SystemUser
